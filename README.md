@@ -9,7 +9,6 @@ To write a program to predict the marks scored by a student using the simple lin
 
 ## Algorithm:
  1.Import the required libraries such as pandas, numpy, matplotlib, and sklearn modules.
- 
  2. Read the dataset from the CSV file using pandas and display the contents using head() and tail() functions.
  3. Separate the dataset into independent variable (X) and dependent variable (y).
  4. Split the dataset into training and testing sets using the train_test_split() function.

@@ -8,10 +8,12 @@ To write a program to predict the marks scored by a student using the simple lin
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1.Import the required libraries such as pandas, numpy, matplotlib, and sklearn modules.
+2. Read the dataset from the CSV file using pandas and display the contents using head() and tail() functions.
+3. Separate the dataset into independent variable (X) and dependent variable (y).
+4. Split the dataset into training and testing sets using the train_test_split() function.
+5.Create and train the Linear Regression model using the training data, then predict the output for the test data.
+6.Evaluate the model performance using Mean Absolute Error (MAE), Mean Squared Error (MSE), and Root Mean Squared Error (RMSE), and visualize the results using graphs.
 
 ## Program:
 ```
@@ -83,9 +85,9 @@ X VALUE
 <img width="184" height="562" alt="image" src="https://github.com/user-attachments/assets/3d46f818-61a6-4333-9107-4231f50560e6" />
 Y VALUE
 <img width="730" height="68" alt="image" src="https://github.com/user-attachments/assets/9deecf44-8d3f-4861-8aed-3ce8c3da09a4" />
-
+PREDICTED VALUES
 <img width="776" height="100" alt="image" src="https://github.com/user-attachments/assets/10aff848-f3a5-4ac4-a4ad-e93e58497282" />
-
+ACTUAL VALUES
 <img width="476" height="48" alt="image" src="https://github.com/user-attachments/assets/b11767a7-d046-4258-ae3a-df9c66c13f8e" />
 
 <img width="855" height="560" alt="image" src="https://github.com/user-attachments/assets/775e0dc5-a632-4211-a45e-0171708a118a" />

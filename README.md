@@ -89,11 +89,11 @@ PREDICTED VALUES
 <img width="776" height="100" alt="image" src="https://github.com/user-attachments/assets/10aff848-f3a5-4ac4-a4ad-e93e58497282" />
 ACTUAL VALUES
 <img width="476" height="48" alt="image" src="https://github.com/user-attachments/assets/b11767a7-d046-4258-ae3a-df9c66c13f8e" />
-
+TRAINING GRAPH
 <img width="855" height="560" alt="image" src="https://github.com/user-attachments/assets/775e0dc5-a632-4211-a45e-0171708a118a" />
-
+TESTING GRAPH
 <img width="753" height="601" alt="image" src="https://github.com/user-attachments/assets/5c4d06b5-0c55-4ad7-a5ff-f832bfc41b53" />
-
+ERROR METRICS
 <img width="309" height="90" alt="image" src="https://github.com/user-attachments/assets/1237651a-e5f3-445e-a6bc-6700fdaafc83" />
 
 

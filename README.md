@@ -8,10 +8,17 @@ To write a program to predict the marks scored by a student using the simple lin
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1.Import the required libraries such as pandas, numpy, matplotlib, and sklearn modules.
+
+2.Read the dataset from the CSV file using pandas and display the contents using head() and tail() functions.
+
+3.Separate the dataset into independent variable (X) and dependent variable (y).
+
+4.Split the dataset into training and testing sets using the train_test_split() function.
+
+5.Create and train the Linear Regression model using the training data, then predict the output for the test data.
+
+6.Evaluate the model performance using Mean Absolute Error (MAE), Mean Squared Error (MSE), and Root Mean Squared Error (RMSE), and visualize the results using graphs. 
 
 ## Program:
 ```
@@ -81,7 +88,26 @@ print("RMSE =", rmse)
 ```
 
 ## Output:
-https://private-user-images.githubusercontent.com/227108182/584134595-e4d0d836-f679-49b5-a8ea-7caafc2ddf75.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Nzc0Mzk2MzgsIm5iZiI6MTc3NzQzOTMzOCwicGF0aCI6Ii8yMjcxMDgxODIvNTg0MTM0NTk1LWU0ZDBkODM2LWY2NzktNDliNS1hOGVhLTdjYWFmYzJkZGY3NS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNDI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDQyOVQwNTA4NThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lZTVjN2QxY2Q4NDEzZGIwYWM1OWYzZjUxODA2YjliZDgxNmI2YThjY2U4ZjU3ZDNjNmRhMzEyNjYwOGI3OWZhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZw
+HEAD VALUE
+<img width="217" height="158" alt="Screenshot 2026-04-27 154300" src="https://github.com/user-attachments/assets/04dd1e5a-be58-4758-9f64-311b6202340f" />
+TAIL VALUE
+<img width="217" height="155" alt="Screenshot 2026-04-27 154306" src="https://github.com/user-attachments/assets/e5d3aea0-ee87-499b-a003-50e677ebc48e" />
+X VALUE
+<img width="184" height="562" alt="Screenshot 2026-04-27 154540" src="https://github.com/user-attachments/assets/98aee6c7-b724-4ac1-a41f-c457889427f1" />
+Y VALUE
+<img width="730" height="68" alt="Screenshot 2026-04-27 154549" src="https://github.com/user-attachments/assets/a53aa9d0-85a0-4c04-9412-c40511bb9c83" />
+PREDICTED VALUES
+<img width="776" height="100" alt="Screenshot 2026-04-27 154701" src="https://github.com/user-attachments/assets/8741f3bd-e87f-4cb0-a32a-ee67e0d5e5f7" />
+ACTUAL VALUES
+<img width="476" height="48" alt="Screenshot 2026-04-27 154716" src="https://github.com/user-attachments/assets/d90af513-820e-498c-97af-69e221fb441b" />
+TRAINING GRAPH
+<img width="855" height="560" alt="Screenshot 2026-04-27 154828" src="https://github.com/user-attachments/assets/f469d7c6-3601-4c98-ba66-723e24f0e50d" />
+TESTING GRAPH
+<img width="753" height="601" alt="Screenshot 2026-04-27 154837" src="https://github.com/user-attachments/assets/bbd31a06-9ebd-4c11-8e7c-8e70b2c1ff5c" />
+ERROR METRICS
+<img width="309" height="90" alt="Screenshot 2026-04-27 154844" src="https://github.com/user-attachments/assets/53ca3197-7220-4869-ad76-1f2cb98929aa" />
+
+
 
 
 ## Result:

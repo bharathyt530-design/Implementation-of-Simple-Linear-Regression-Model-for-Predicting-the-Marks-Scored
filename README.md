@@ -85,27 +85,35 @@ print("RMSE =", rmse)
 HEAD VALUE
 
 <img width="217" height="158" alt="image" src="https://github.com/user-attachments/assets/e4d0d836-f679-49b5-a8ea-7caafc2ddf75" style="padding:20px;"/>
+
 TAIL VALUE
 
 <img width="217" height="155" alt="image" src="https://github.com/user-attachments/assets/38601bf4-a984-4ce5-bc26-855e409da2bc" />
+
 X VALUE
 
 <img width="184" height="562" alt="image" src="https://github.com/user-attachments/assets/3d46f818-61a6-4333-9107-4231f50560e6" />
+
 Y VALUE
 
 <img width="730" height="68" alt="image" src="https://github.com/user-attachments/assets/9deecf44-8d3f-4861-8aed-3ce8c3da09a4" />
+
 PREDICTED VALUES
 
 <img width="776" height="100" alt="image" src="https://github.com/user-attachments/assets/10aff848-f3a5-4ac4-a4ad-e93e58497282" />
+
 ACTUAL VALUES
 
 <img width="476" height="48" alt="image" src="https://github.com/user-attachments/assets/b11767a7-d046-4258-ae3a-df9c66c13f8e" />
+
 TRAINING GRAPH
 
 <img width="855" height="560" alt="image" src="https://github.com/user-attachments/assets/775e0dc5-a632-4211-a45e-0171708a118a" />
+
 TESTING GRAPH
 
 <img width="753" height="601" alt="image" src="https://github.com/user-attachments/assets/5c4d06b5-0c55-4ad7-a5ff-f832bfc41b53" />
+
 ERROR METRICS
 
 <img width="309" height="90" alt="image" src="https://github.com/user-attachments/assets/1237651a-e5f3-445e-a6bc-6700fdaafc83" />
